@@ -92,7 +92,7 @@ public class MySQLConnection implements DBConnection {
 			e.printStackTrace();
 		}
 		System.out.println("insert advertiser done");
-		return -1;
+		return -1; 
 	}
 
 	@Override
